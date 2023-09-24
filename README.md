@@ -1,16 +1,79 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
 
-<!--
-**raanausama/raanausama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <div id="header-text" style="font-weight: bold; font-size: 18px;">
+        Hey You! I am Rana Usama! A Full Stack Developer
+   </div>
+    <div id="badge">
+      <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+        <a href="https://www.instagram.com/_ranausama/">
+        <img src="https://img.shields.io/badge/Instagram-ffe53b?style=for-the-badge&logo=instagram&logoColor=white%22%20alt=%22Instagram%20Badge%22"/>
+      </a>
+      <a href="https://twitter.com/imRUsama">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+    </div>
+    <div id="viewere">
+        <img src="https://komarev.com/ghpvc/?username=raanausama&style=flat-square&color=blue" alt=""/>
+    </div>
+</div>
 
-Here are some ideas to get you started:
+<div align="center" style='margin-top: 4px'>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling:  A Computer Science graduate, Proficient in React, Node, AWS and PostgreSQL.
+
+- :zap: In my free time, I constantly learning and exploring the latest in the web world.
+
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> & <span style="color: blur(4px); text-decoration: underline;"><img src="https://img.shields.io/badge/ruc619@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></span>
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raanausama&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raanausama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## <div style="background-color: blue; color: white; padding: 10px;">Languages and Tools</div>
+
+<div align='center'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+## :computer: My Projects:
+<div>
+    <ul class="project-list">
+      <li class="project-item">
+        <a class="project-link" href="https://assuretrust.asia/">Assure Trust System</a> - A blockchain-based digital trust system, Assure Trust System (ATS), is the Company to serve                 clients who wish to entrust their insurance policies to Company Group as trustee.
+      </li>
+      <li class="project-item">
+        <a class="project-link" href="https://admin.assuretrust.asia/">Assure Trust System</a> - An Admin Site of Assure Trust System (ATS).
+      </li>
+      <li class="project-item">
+        <a class="project-link" href="https://malamjabbaa.netlify.app/">Malam Jabba Ski Resort</a> - Experience the thrill of Malam Jabba Ski Resort, where snowy slopes, cozy comforts,             and endless excitement await, promising the perfect winter getaway
+      </li>
+    </ul>
+</div>
+
