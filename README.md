@@ -29,11 +29,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Software Engineer and proficiently shaping both the frontend and backend to construct robust web applications.
+- :telescope: I’m working as a Software Developer and proficiently shaping both the frontend and backend to construct robust web applications.
 
-- :seedling:  A Computer Science graduate, proficient in React, Node, AWS and PostgreSQL.
+- :seedling:  A Computer Science graduate, proficient in React, Node, AWS, SQL and NoSQL.
 
-- :zap: In my free time, I am constantly learning and exploring the latest in the web world.
+- :zap: In my free time, I am constantly learning and exploring the latest in the web world.I am Learning Blockchain Nowdays.
 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> & <span style="color: blur(4px); text-decoration: underline;"><img src="https://img.shields.io/badge/ruc619@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></span>
 ### :fire: My Stats :
