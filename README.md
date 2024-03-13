@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <a class="project-link" href="https://assuretrust.asia/">Assure Trust System</a> - A blockchain-based digital trust system, Assure Trust System (ATS), is the Company to serve                 clients who wish to entrust their insurance policies to Company Group as trustee.
       </li>
       <li class="project-item">
-        <a class="project-link" href="https://admin.assuretrust.asia/">Assure Trust System</a> - An Admin Site of Assure Trust System (ATS).
+        <a class="project-link" href="https://admin.assuretrust.asia/">Assure Trust Admin</a> - An Admin Site of Assure Trust System (ATS).
       </li>
       <li class="project-item">
         <a class="project-link" href="https://malamjabbaresort.com/">Malam Jabba Ski Resort</a> - Experience the thrill of Malam Jabba Ski Resort, where snowy slopes, cozy comforts,             and endless excitement await, promising the perfect winter getaway
