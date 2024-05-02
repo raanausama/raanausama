@@ -77,6 +77,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <li class="project-item">
         <a class="project-link" href="https://malamjabbaresort.com/">Malam Jabba Ski Resort</a> - Experience the thrill of Malam Jabba Ski Resort, where snowy slopes, cozy comforts,             and endless excitement await, promising the perfect winter getaway
       </li>
+         <li class="project-item">
+        <a class="project-link" href="https://zaytrics.com/">Zaytrics</a> - IT Solution company.
+      </li>
     </ul>
 </div>
 
