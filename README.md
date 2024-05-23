@@ -4,7 +4,7 @@
 
 <div align="center">
    <div id="header-text" style="font-weight: bold; font-size: 18px;">
-        Hey You! I am Rana Usama! A Full Stack Developer
+        Hey You! I am Rana Usama!
    </div>
     <div id="badge">
       <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
@@ -27,11 +27,11 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: With over 2 years of experience as a Software Developer, I proficiently shape both frontend and backend systems to build robust web applications.
 
-- :seedling:  A Computer Science graduate, proficient in MERN stack, Next js, AWS, WordPress and Blockchain.
+- :seedling:  A Computer Science graduate, proficient in MERN Stack, Next js, AWS, WordPress and Blockchain.
 
 - :zap: In my free time, I am constantly learning and exploring the latest in the web world, with a current focus on blockchain technology.
 
