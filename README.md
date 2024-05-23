@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as a Software Developer for 2+ years now and proficiently shaping both the frontend and backend to construct robust web applications.
+- :telescope: With over 2 years of experience as a Software Developer, I proficiently shape both frontend and backend systems to build robust web applications.
 
 - :seedling:  A Computer Science graduate, proficient in MERN stack, Next js, AWS, WordPress and Blockchain.
 
