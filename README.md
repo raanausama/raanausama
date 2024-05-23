@@ -35,7 +35,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I am constantly learning and exploring the latest in the web world, with a current focus on blockchain technology.
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> & <span style="color: blur(4px); text-decoration: underline;"><img src="https://img.shields.io/badge/ruc619@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></span>
+- :mailbox: How to reach me: <div>
+  - ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white) [Rana Usama](https://www.linkedin.com/in/rana-usama-a9b4141b4/) 
+  - ![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white) ruc619@gmail.com
+  - ![WhatsApp](https://img.shields.io/badge/WhatsApp:-white?logo=whatsapp) +923497754876</div>
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raanausama&theme=dark&background=000000)](https://git.io/streak-stats)
