@@ -4,7 +4,7 @@
 
 <div align="center">
    <div id="header-text" style="font-weight: bold; font-size: 18px;">
-        Hey You! I am Rana Usama!
+        Hey You!
    </div>
     <div id="badge">
       <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
