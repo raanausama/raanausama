@@ -66,6 +66,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/crytic/slither/master/logo.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  
 
 </div>
 ## :computer: My Projects:
