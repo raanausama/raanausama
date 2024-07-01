@@ -67,6 +67,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original-wordmark.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/SVG_MetaMask_Icon_Color.svg" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/crytic/slither/master/logo.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="NEXTJS" alt="NEXTJS" width="40" height="40"/>&nbsp;
 
