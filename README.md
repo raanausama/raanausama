@@ -83,6 +83,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <li class="project-item">
         <a class="project-link" href="https://admin.assuretrust.asia/">Assure Trust Admin</a> - An Admin Site of Assure Trust System (ATS).
       </li>
+        </li>
+         <li class="project-item">
+        <a class="project-link" href="https://www.njadwil.com/">Njadwil</a> - The revolutionary next-gen smart NFT Ticketing System.
+      </li>
+        </li>
+         <li class="project-item">
+        <a class="project-link" href="https://www.review-it.me/">ReviewIT</a> - AI Document Reviewer System.
+      </li>
       <li class="project-item">
         <a class="project-link" href="https://malamjabbaresort.com/">Malam Jabba Ski Resort</a> - Experience the thrill of Malam Jabba Ski Resort, where snowy slopes, cozy comforts,             and endless excitement await, promising the perfect winter getaway
       </li>
