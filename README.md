@@ -78,7 +78,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 
 </div>
-## :computer: My Projects:
+:computer: My Projects:
 <div>
     <ul class="project-list">
       <li class="project-item">
