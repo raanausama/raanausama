@@ -26,7 +26,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: With over 2 years of experience as a Software Developer, I proficiently shape both frontend and backend systems to build robust web applications.
+- :telescope: With over 3 years of experience as a Software Developer, I proficiently shape both frontend and backend systems to build robust web applications.
 
 - :seedling:  A Computer Science graduate, proficient in MERN Stack, Next js, AWS, WordPress and Blockchain.
 
@@ -36,6 +36,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white) [Rana Usama](https://www.linkedin.com/in/rana-usama-a9b4141b4/) 
   - ![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white) ruc619@gmail.com
   - ![WhatsApp](https://img.shields.io/badge/WhatsApp:-white?logo=whatsapp) +923497754876</div>
+
+### 🕸️ Visit My Profile: <div>
+- <a href='https://ranausamaportfolio.netlify.app/'> Portfolio </a>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raanausama&theme=dark&background=000000)](https://git.io/streak-stats)
