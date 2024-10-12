@@ -1,11 +1,9 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+<div align="center">
+	<img src="https://github.com/raanausama/raanausama/blob/main/HEY%20I%20Am%20rana%20usama.gif" style="width: 80%">
 </div>
 
 <div align="center">
-   <div id="header-text" style="font-weight: bold; font-size: 18px;">
-        Hey You!
-   </div>
+   <h3 align="center">MERN Stack | Blockchain - Ethereum - Web3 | AWS - Oracle - Fotbo</h3>
     <div id="badge">
       <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,23 +20,80 @@
     </div>
 </div>
 
+---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Enthusiast with over 3 years of experience as a MERN Stack Developer.
 
-- :telescope: With over 3 years of experience as a Software Developer, I proficiently shape both frontend and backend systems to build robust web applications.
+- :telescope: I proficiently shape both frontend and backend systems to build robust web applications.
 
 - :seedling:  A Computer Science graduate, proficient in MERN Stack, Next js, AWS, WordPress and Blockchain.
 
-- :zap: In my free time, I am constantly learning and exploring the latest in the web world, with a current focus on blockchain technology.
+- :zap: I am learning and exploring the latest in the web world, with a current focus on blockchain technology.
 
-- :mailbox: How to reach me: <div>
-  - ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white) [Rana Usama](https://www.linkedin.com/in/rana-usama-a9b4141b4/) 
-  - ![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white) ruc619@gmail.com
-  - ![WhatsApp](https://img.shields.io/badge/WhatsApp:-white?logo=whatsapp) +923497754876</div>
+- ⚡ Fun fact: **I write code in multiple languages, but ironically, my coffee maker still doesn’t understand me!**
+
+- :mailbox: How to reach me: **ruc619@gmail.com**
+
+### 🔗 Connect With Me:
+   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-usama-shaukat/)
+   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruc619@gmail.com)
 
 ### 🕸️ Visit My Profile: <div>
 - <a href='https://ranausamaportfolio.netlify.app/'> Portfolio </a>
+
+---
+
+### Languages I use
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000000?style=for-the-badge&logo=mongodb)
+![Solidity](https://img.shields.io/badge/-Solidity-000?style=for-the-badge&logo=solidity)
+![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=181717)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-222222?style=for-the-badge&logo=express&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs&logoColor=6DB33F)
+![Nest.js](https://img.shields.io/badge/-NestJS-222222?style=for-the-badge&logo=nestjs&logoColor=6DB33F)
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-222222?style=for-the-badge&logo=postgresql&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=for-the-badge&logo=fastapi)
+![Figma](https://img.shields.io/badge/-figma-222222?style=for-the-badge&logo=figma&logoColor=orange)
+![Canva](https://img.shields.io/badge/Canva-222222.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-222222?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Bootstrap](https://img.shields.io/badge/bootstrap-222222.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-222222.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socket_io-222222?style=for-the-badge&logo=socket.io&logoColor=007FFF)
+![NGINX](https://img.shields.io/badge/Nginx-222222?logo=nginx&logoColor=white&style=for-the-badge&logoColor=6DB33F)
+![Firebase](https://img.shields.io/badge/-Firebase-222222?style=for-the-badge&logo=Firebase&logoColor=007FFF)
+![Jira](https://img.shields.io/badge/jira-222222.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-222222.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-222222?style=for-the-badge&logo=Express&logoColor=007FFF)
+![Wordpress](https://img.shields.io/badge/-Wordpress-222222?style=for-the-badge&logo=Wordpress&logoColor=007FFF)
+![MySql](https://img.shields.io/badge/-MySql-222222?style=for-the-badge&logo=MySql&logoColor=007FFF)
+![Solidity](https://img.shields.io/badge/-Solidity-222222?style=for-the-badge&logo=Solidity&logoColor=yellow)
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-222222?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-222222?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/-aws-222222?style=for-the-badge&logo=aws&logoColor=orange)
+![Netlify](https://img.shields.io/badge/netlify-222222.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![MetaMask](https://img.shields.io/badge/-Metamask-222222?style=for-the-badge&logo=Metamask&logoColor=orange)
+![Smart Contract](https://img.shields.io/badge/-Smartcontract-222222?style=for-the-badge&logo=Smartcontract&logoColor=blue)
+![Web3.js](https://img.shields.io/badge/web3.js-222222?style=for-the-badge&logo=web3.js&logoColor=orange)
+![Ethereum](https://img.shields.io/badge/Ethereum-222222?style=for-the-badge&logo=Ethereum&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-222222?style=for-the-badge&logo=paypal&logoColor=blue)
+![Stripe](https://img.shields.io/badge/Stripe-222222?style=for-the-badge&logo=stripe&logoColor=blue)
 
 ### :fire: My Stats :
 
@@ -46,38 +101,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raanausama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## <div style="background-color: blue; color: white; padding: 10px;">Languages and Tools</div>
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="Socket.io" alt="Socket" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original-wordmark.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/SVG_MetaMask_Icon_Color.svg" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/crytic/slither/master/logo.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
-
-  
-
-</div>
 :computer: My Projects:
 <div>
     <ul class="project-list">
