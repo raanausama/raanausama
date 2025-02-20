@@ -33,11 +33,11 @@
 
 - ⚡ Fun fact: **I write code in multiple languages, but ironically, my coffee maker still doesn’t understand me!**
 
-- :mailbox: How to reach me: **ruc619@gmail.com**
+- :mailbox: How to reach me: **ranausamashaukat@gmail.com**
 
 ### 🔗 Connect With Me:
    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-usama-shaukat/)
-   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruc619@gmail.com)
+   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranausamashaukat@gmail.com)
 
 ### 🕸️ Visit My Profile: <div>
 - <a href='https://ranausamaportfolio.netlify.app/'> Portfolio </a>
