@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <h3 align="center">MERN Stack | Blockchain - Ethereum - Web3 | AWS - Oracle - Fotbo</h3>
+   <h3 align="center">MERN Stack | AI - RAG | Blockchain - Ethereum - Web3 | AWS - Oracle - Fotbo</h3>
     <div id="badge">
       <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
