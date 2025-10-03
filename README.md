@@ -118,7 +118,7 @@
       </li>
         </li>
          <li class="project-item">
-        <a class="project-link" href="https://www.review-it.me/">ReviewIT</a> - AI Document Reviewer System.
+        <a class="project-link" href="https://www.review-it.ai/">Review-it</a> - AI Document Reviewer System.
       </li>
       <li class="project-item">
         <a class="project-link" href="https://malamjabbaresort.com/">Malam Jabba Ski Resort</a> - Experience the thrill of Malam Jabba Ski Resort, where snowy slopes, cozy comforts,             and endless excitement await, promising the perfect winter getaway
