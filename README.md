@@ -2,8 +2,9 @@
   <img src="https://github.com/raanausama/raanausama/blob/main/HEY%20I%20Am%20rana%20usama.gif" style="width:80%;">
 </div>
 
-<h2 align="center">👋 Hi, I'm Rana Usama</h2>
-<h3 align="center">🚀 MERN Stack | AI & RAG | Blockchain | AWS | Oracle | Flask</h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Rana+Usama;Full+Stack+%7C+AI+RAG+%7C+Blockchain+Developer;Building+Scalable+%26+Smart+Systems+🚀" alt="Typing SVG" />
+</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
