@@ -2,9 +2,7 @@
   <img src="https://github.com/raanausama/raanausama/blob/main/HEY%20I%20Am%20rana%20usama.gif" style="width:80%;">
 </div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=480&lines=Hey+there!+I'm+Rana+Usama;Full+Stack+%7C+AI+RAG+%7C+Blockchain+Developer;Building+Scalable+%26+Smart+Systems+🚀" alt="Typing SVG" />
-</h2>
+<h3 align="center">MERN Stack | AI & RAG | Blockchain | AWS | Oracle | Flask</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rana-usama-a9b4141b4/">
@@ -49,7 +47,15 @@
 
 ---
 
-### 📧 **Chill-it** – Flask | AWS | MongoDB | Gemini APIs  
+
+### 🎟️ **Njadwil** – Blockchain | ERC1155 | IPFS | Hardhat  
+> Next-gen **NFT Ticketing System** enabling minting, resale, and tracking of event tickets.  
+> Uses **IPFS for metadata**, **Hardhat for testing**, and **OpenZeppelin upgradable contracts** for reliability.  
+🔗 [Visit Njadwil](https://www.njadwil.com/)
+
+---
+
+### 📧 **Chill-it** – MERN | Flask | AWS | MongoDB | Gemini APIs  
 > Workflow automation system that filters **Gmail & Outlook emails** for meeting/call intents using **Gemini APIs**.  
 > Auto-generates smart email drafts and **auto-schedules meetings in Outlook Calendar**.  
 > Fully deployed on **AWS** with **Flask backend**, designed for production scalability.  
@@ -63,16 +69,10 @@
 
 ---
 
-### ⚖️ **Slovenian Law AI Assistant** – LLM | RAG | Chatbot  
+### ⚖️ **Slovenian Law AI Assistant** – React | LLM | RAG | Chatbot  
 > Built a **legal chatbot** integrated with **Slovenian law case data**.  
 > Lawyers can **query, download related legal cases**, and receive **AI-driven summaries & reasoning** through LLM + RAG architecture.
 
----
-
-### 🎟️ **Njadwil** – Blockchain | ERC1155 | IPFS | Hardhat  
-> Next-gen **NFT Ticketing System** enabling minting, resale, and tracking of event tickets.  
-> Uses **IPFS for metadata**, **Hardhat for testing**, and **OpenZeppelin upgradable contracts** for reliability.  
-🔗 [Visit Njadwil](https://www.njadwil.com/)
 
 ---
 
