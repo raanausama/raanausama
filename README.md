@@ -144,7 +144,20 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=raanausama&theme=dark&background=000000" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raanausama&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raanausama&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /> -->
+  <!-- <br> -->
+  
+<img src="https://github-readme-stats.vercel.app/api?username=raanausama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Usama's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raanausama&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raanausama&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> -->
+<br>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=raanausama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" /> -->
+
+
+
+
+  
 </div>
 
 ---
