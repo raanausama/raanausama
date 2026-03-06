@@ -21,8 +21,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 💡 Tech Enthusiast with 3+ years of experience as a **Full Stack & AI Developer**.  
-- 🧠 Specialized in **MERN Stack, Flask, AWS, Blockchain (ERC1155, Smart Contracts), and AI-RAG Systems**.  
+- 💡 Tech Enthusiast with 4+ years of experience as a **Full Stack & AI Developer**.  
+- 🧠 Specialized in **MERN Stack, Flask, AWS, Blockchain (ERC1155, Smart Contracts), AI Agents and RAG Systems**.  
 - 🤖 Passionate about **AI-driven applications**, **RAG (Retrieval-Augmented Generation)**, and **intelligent automation**.  
 - 🎓 Computer Science Graduate, continuously learning the latest in **Web3** and **AI** technologies.  
 - ⚡ Fun Fact: *I speak JavaScript, Python, Solidity, and sarcasm equally fluently.*  
